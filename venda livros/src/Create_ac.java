@@ -1,8 +1,8 @@
 
 /**
  * 
- * @author Soumyadip Chowdhury
- * @github soumyadip007
+ * 
+ *
  *
  */
 import java.awt.EventQueue;
